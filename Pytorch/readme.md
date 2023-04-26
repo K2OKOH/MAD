@@ -28,6 +28,7 @@
 
     2. 运行 python SCG.py
     ```
+    已经生成好的数据集存放在https://pan.baidu.com/s/1XTVRXdUIbru3IzKGXY-OhQ 密码bezm
 2. MAD模型训练
     ```
     CUDA_VISIBLE_DEVICES=0 python train_MV_3.py \
